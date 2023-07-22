@@ -1,0 +1,37 @@
+*{
+    font-family: Oswald;
+}
+.navbar-expand-lg{
+    padding-top: 0px;
+}
+
+#container-header{
+    background-color: #446EDE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#container-header a{
+    color: #fff;
+}
+
+#image-container, #title-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+table{
+    border: 2px;
+}
+
+table tr th, table tr td{
+    text-align: center;
+    justify-content: center;
+    padding: 0;
+}
+
+table tr td img{
+    border: 2px solid;
+}
+
